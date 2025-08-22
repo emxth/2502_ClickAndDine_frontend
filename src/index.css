@@ -1,7 +1,7 @@
 /* Tailwind’s compiled base, components, and utilities would normally go here */
-@import 'tailwindcss/base.css';
-@import 'tailwindcss/components.css';
-@import 'tailwindcss/utilities.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* Your design tokens */
 :root {
